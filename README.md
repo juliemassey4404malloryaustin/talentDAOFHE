@@ -1,4 +1,4 @@
-```markdown
+
 # TalentDAOFHE: A Decentralized Talent Agency for Creators 🚀
 
 TalentDAOFHE serves as a revolutionary decentralized talent agency powered by **Zama's Fully Homomorphic Encryption technology**. This innovative DAO (Decentralized Autonomous Organization) acts as an intermediary for encrypted creators, such as anonymous artists and writers, ensuring their works and identities are protected while also facilitating private business negotiations and copyright management.
